@@ -14,7 +14,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/AndrewAMur/AndrewAMur/output/snake.svg" alt="Snake animation" />
-
-###
