@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python and Linux developer based in Toronto, Canada<br>Getting into Cyber Security<br>Working on Open Source text-editor
+Python and Linux developer based in Toronto, Canada<br>Getting into Cyber Security<br>Working on open source projects-editor
 
 
 # 💻 Tech Stack:
