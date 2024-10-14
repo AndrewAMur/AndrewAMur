@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate programmer and aspiring analyst w
 - **Version Control**: Git, GitHub
 
 ## 📫 How to reach me
-- [LinkedIn](https://ca.linkedin.com/in/andrew-muratov)
+- [LinkedIn](www.linkedin.com/in/andrew-muratov-214936208)
 - Email: andrewamuratov@gmail.com
 
 ## 🌟 Fun Fact
