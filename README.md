@@ -1,25 +1,14 @@
-# Hi there, I'm Andrew! 👋
+# 👋 Hey there!
 
-Welcome to my GitHub profile! I'm a passionate programmer and aspiring analyst with a keen interest in finance and technology. I'm currently a high school student in Grade 11, with plans to pursue my studies at the University of Toronto.
+I’m a 16-year-old developer and student at **The Abelard School**, currently in grade 11. My journey into tech started when I was 12, and since then, I've been exploring programming, diving deep into **Linux**, and embracing the world of **FOSS** (Free and Open-Source Software).
 
-## 🔭 Current Projects
-- **OpenBloom**: Aiming to create a free and open-source version of the Bloomberg Terminal.
-- **Quantitative Analysis**: Exploring various projects related to quantitative finance and algorithmic trading.
+## 👨‍💻 My Projects
+I’m passionate about creating tools that make life easier, especially when they’re open-source and accessible to everyone. My recent projects focus on desktop utilities and productivity enhancements. I love working on anything that makes systems faster, more customizable, and efficient.
 
-## 🌱 I'm currently learning
-- **C++**: Diving into C++ to enhance my programming skills and broaden my development toolkit.
+## 🔧 Technologies & Tools
+- **Languages**: Python, Bash, and a bit of JavaScript.
+- **OS**: Linux
+- **Tools**: Vim, VS Code, Git, and other terminal-based utilities
 
-## 💻 Technologies & Tools
-- **Programming Languages**: Python, C++
-- **Frameworks**: Flask (for web development projects)
-- **Data Science**: Pandas, NumPy, Matplotlib
-- **Version Control**: Git, GitHub
-
-## 📫 How to reach me
-- [LinkedIn](www.linkedin.com/in/andrew-muratov-214936208)
-- Email: andrewamuratov@gmail.com
-
-## 🌟 Fun Fact
-In my free time, I enjoy reading about financial markets and exploring new technologies. I'm always looking for opportunities to collaborate on interesting projects!
-
-Thanks for visiting my profile! Feel free to check out my repositories and reach out if you'd like to connect or collaborate.
+## 📫 Contact
+andrewamuratov@gmail.com
